@@ -30,10 +30,11 @@ Coma patients require continuous and real-time monitoring of vital signs to ensu
 
 ## Repository Structure
 
-- `/code`: Source code for the Arduino microcontroller and web application.
-- `/images`: Diagrams and figures used in the paper.
-- `/hardware`: Schematics and descriptions of the hardware setup.
-- `/paper`: The LaTeX source files and the compiled PDF of the research paper.
+- `comma patient/code`: Source code for the Arduino microcontroller and web application.
+- `comma patient/images`: Diagrams and figures used in the paper.
+- `comma patient/images`: Diagrams and figures used in the paper.
+- `comma patient/images`: Diagrams and figures used in the paper.
+- `comma patient/hardware`: Schematics and descriptions of the hardware setup.
 - `README.md`: Project overview and instructions.
 
 ## How to Run
